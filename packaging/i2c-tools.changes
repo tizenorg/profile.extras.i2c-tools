@@ -1,0 +1,6 @@
+* Mon Mar 22 2010 Marko Saukko <marko.saukko@gmail.com> - 3.0.2-1
+- Moved /usr/include/linux/i2c-dev.h to /usr/include/libi2c/i2c-dev.h
+  because of conflicts with kernel packages.
+
+* Mon Mar 22 2010 Marko Saukko <marko.saukko@gmail.com> - 3.0.2
+- Initial spec file.
